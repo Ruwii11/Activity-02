@@ -1,3 +1,4 @@
+#python codes 01
 >>> my_string = "Hello"
 
 >>> my_string[0]

@@ -14,3 +14,5 @@
 
 >>> my_string[4]
 'o'
+
+print("Hello")
